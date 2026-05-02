@@ -1,0 +1,45 @@
+#unordered{
+    list-style-type:square;
+    background-color: aqua;
+    padding: 30px;
+    border: 3px dashed black;
+    margin: 20px;
+
+}
+#order{
+    list-style-type: upper-roman;
+    background-color: aquamarine;
+    padding: 20px;
+    border: 3px dashed black;
+    margin: 20px;
+}
+
+li{
+    background-color:red;
+    border:1px solid black;
+    padding: 10px;
+
+
+}
+th, td{
+    border: 2px solid black;
+    padding: 10px;
+}
+
+th{
+    background-color: black;
+    color: red;
+}
+
+td{
+    background-color: black;
+    color: red;
+}
+
+#Text1{
+    overflow: scroll;
+    background-color: blueviolet;
+    width: 200px;
+    height:200px;
+}
+
