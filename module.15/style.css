@@ -55,3 +55,15 @@ div#absolute{
     color: white;
 
 }
+
+
+.sprite{
+    background: url("../images/houses.png") no-repeat;
+}
+
+.engineers{
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    background-position: 0px 0px;
+}
